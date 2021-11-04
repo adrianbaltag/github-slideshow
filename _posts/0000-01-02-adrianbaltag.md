@@ -2,4 +2,4 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-"Hello World! :)"
+“Think lightly of yourself and deeply of the world” ― Miyamoto Musashi, A Book of Five Rings: The Classic Guide to Strategy
